@@ -1,0 +1,19 @@
+p{
+  font-size: 25px;
+  font-weight: bold;
+}
+.create-btn{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+li{
+  list-style: none;
+}
+.full-user-list >li{
+  background-color: lightgray;
+  margin-bottom: 5px;
+}
+.edit-buttons{
+  display: flex;
+  justify-content: center;
+}

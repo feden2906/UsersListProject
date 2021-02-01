@@ -1,0 +1,6 @@
+export const ADD_USERS_FROM_API = 'ADD_USERS_FROM_API';
+export const ADD_CHOSEN_USER = 'ADD_CHOSEN_USER';
+export const DELETE_CHOSEN_USER = 'DELETE_CHOSEN_USER';
+export const SAVE_USERS_LIST = 'SAVE_USERS_LIST';
+export const CREATE_USER = 'CREATE_USER';
+
